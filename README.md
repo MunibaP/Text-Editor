@@ -28,7 +28,7 @@
 - [License](#license)
 
 ## Description
-Welcome to my Text Editor PWA! In this project milestone, as an advancing developer, I embarked on creating a browser-based text editor. The Text Editor PWA project is designed to provide users with a seamless editing experience while incorporating cutting-edge web technologies. Utilizing IndexedDB for data persistence and Express.js for server-side routing, the application empowers users to create and save notes or code snippets both online and offline. By adhering to acceptance criteria such as proper server deployment on Render, successful data retrieval and storage with IndexedDB, and flawless operation across various JavaScript environments, the Text Editor PWA ensures a reliable and efficient solution for modern text editing needs.
+Welcome to my Text Editor PWA web application! In this week's challenge, as a transitional web developer I was tasked with creating a browser-based text editor. The Text Editor PWA project is designed to provide users with a seamless editing experience while incorporating cutting-edge web technologies. Utilizing IndexedDB for data persistence and Express.js for server-side routing, the application empowers users to create and save notes or code snippets both online and offline. By adhering to acceptance criteria such as proper server deployment on Render, successful data retrieval and storage with IndexedDB, and flawless operation across various JavaScript environments, the Text Editor PWA ensures a reliable and efficient solution for modern text editing needs.
 
 ## User Story
 ```
