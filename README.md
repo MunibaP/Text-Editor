@@ -142,7 +142,7 @@ Contributions to the The Text Editor are welcome and encouraged. Here are some w
 There are no tests required for this project.
 
 ## Links
-- [Deployment link]()
+- [Deployment link](https://text-editor-aj05.onrender.com)
 - [GitHub repository](https://github.com/MunibaP/Text-Editor.git)
   
 ## Questions
